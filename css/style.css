@@ -1,0 +1,21 @@
+
+h1{
+	font-size: 50px;
+
+}
+.box{
+	background-color: red;
+}
+.b_box{
+	height: 100px;
+	background-color: darkcyan;
+}
+.bx_box{
+	height: 100px;
+	background-color: navajowhite;
+}
+.bo_box{
+	height: 100px;
+	background-color: navy;
+	margin-bottom: 5px;
+}
